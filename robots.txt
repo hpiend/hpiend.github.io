@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hpiend.github.io/YfQ/sitemap.YfQ.gz
